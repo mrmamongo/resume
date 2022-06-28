@@ -7,7 +7,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("/files/hero-bg.jpg");
+  background-image: url("/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -39,12 +39,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("/files/icon-email-header.svg");
+  background-image: url("/icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("/files/icon-phone-header.svg");
+  background-image: url("/icon-phone-header.svg");
 }
 
 .hero-image {
@@ -117,23 +117,23 @@ body {
 }
 
 .skill-html {
-  background-image: url("/files/icon-html.svg");
+  background-image: url("/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("/files/icon-css.svg");
+  background-image: url("/icon-css.svg");
 }
 
 .skill-cpp {
-  background-image: url("/files/icon-cpp.svg");
+  background-image: url("/icon-cpp.svg");
 }
 
 .skill-cs {
-  background-image: url("/files/icon-cs.svg");
+  background-image: url("/icon-cs.svg");
 }
 
 .skill-sql {
-  background-image: url("/files/icon-sql.svg");
+  background-image: url("/icon-sql.svg");
 }
 
 .level {
@@ -203,12 +203,12 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("/files/icon-email-footer.svg");
+  background-image: url("/icon-email-footer.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("/files/icon-phone-footer.svg");
+  background-image: url("/icon-phone-footer.svg");
 }
 
 .dark-theme body {
@@ -219,7 +219,7 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
-  background-image: url("/files/d-hero-bg.jpg");
+  background-image: url("/d-hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -246,11 +246,11 @@ body {
 }
 .dark-theme .header-email {
   padding-left: 30px;
-  background-image: url("/files/d-icon-email.svg");
+  background-image: url("/d-icon-email.svg");
 }
 .dark-theme .header-phone {
   padding-left: 25px;
-  background-image: url("/files/d-icon-phone.svg");
+  background-image: url("/d-icon-phone.svg");
 }
 .dark-theme .hero-image {
   margin-bottom: 480px;
@@ -302,10 +302,10 @@ body {
   background-position: left;
 }
 .dark-theme .skill-html {
-  background-image: url("/files/d-icon-html.svg");
+  background-image: url("/d-icon-html.svg");
 }
 .dark-theme .skill-css {
-  background-image: url("/files/d-icon-css.svg");
+  background-image: url("/d-icon-css.svg");
 }
 .dark-theme .level {
   margin: 4px 0 16px;
@@ -363,11 +363,11 @@ body {
 }
 .dark-theme .footer-email {
   padding-left: 30px;
-  background-image: url("/files/d-icon-email.svg");
+  background-image: url("/d-icon-email.svg");
 }
 .dark-theme .footer-phone {
   padding-left: 25px;
-  background-image: url("/files/d-icon-phone.svg");
+  background-image: url("/d-icon-phone.svg");
 }
 
 .switch-btn {
